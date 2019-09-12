@@ -6,7 +6,7 @@ import Quiz from 'react-quiz-component';
 function App() {
   return (
     <div className="App">
-      <img src="img/arcade1.jpeg"/>
+      <img src={ require('.img/arcade1.jpeg')} alt=""/>
      <Quiz quiz={quiz}/>
     </div>
   );
