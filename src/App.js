@@ -1,13 +1,12 @@
 import React from 'react';
 import './App.css';
 import { quiz } from './quiz.js';
-import Quiz from 'react-quiz-component';
+import Quiz from 'react-quiz-component'
 
 function App() {
   return (
     <div className="App">
-      <img src="img/arcade1.jpeg" alt=""/>
-     <Quiz quiz={quiz}/>
+     <Quiz quiz={quiz} showInstantFeedback={true}/>
     </div>
   );
 }
