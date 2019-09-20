@@ -2,7 +2,7 @@
   "name": "arcadequiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://litzenberger.github.io/arcadequiz/",
+  "homepage": "https://litzenberger.github.io/arcadeiq/",
   "dependencies": {
     "react": "^16.9.0",
     "react-animation": "^1.2.0",

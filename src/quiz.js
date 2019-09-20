@@ -13,7 +13,7 @@ export const quiz =  {
       ],
       "correctAnswer": "4",
       "messageForCorrectAnswer": "img/arcade1.png",
-      "imageBefore": "img/arcade1.png",
+      "imageBefore": "img/arcade1_small.png",
       "imageAfter": "img/defender1.jpg",
       "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
       "explanation": "",
