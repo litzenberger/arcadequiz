@@ -1,7 +1,6 @@
 {
   "name": "arcadequiz",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://litzenberger.github.io/arcadequiz/",
   "dependencies": {
     "react": "^16.9.0",
