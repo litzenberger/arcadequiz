@@ -1,6 +1,6 @@
 export const quiz =  {
   "quizTitle": "Arcade IQ",
-  "quizSynopsis": "What Was This Arcade Cabinet Orignally.  Look at the coabinets that have been converted by the arcade operaters.  Can you identify what the cabinet was originally?",
+  "quizSynopsis": "Arcade operators in the 80's and 90's converted games that stopped making money into games that would bring in the quartes.  Conversion games were done using kits where the marquee, bezel and board would be changed out to the new art work and game.  Now the collector market are looking for the original games which have unique style cabinets.  By knowing what the original cabinet looked like, a keen collector can spot a cheap arcade game at auction or craiglist and then converted it back to an original highly collectable game.  Can you spot what these conversions were originally?  Whats you Arcade IQ",
   "questions": [
     {
       "question": "What is the original Arcade",
@@ -14,8 +14,9 @@ export const quiz =  {
       "correctAnswer": "4",
       "messageForCorrectAnswer": "img/arcade1.png",
       "imageBefore": "img/arcade1_small.png",
+      "imageTextBefore": ["image by Ron"],
       "imageAfter": "img/defender1.jpg",
-      "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
+      "imageTextAfter" : ["image by Ron"],
       "explanation": "",
       "point": "20"
     },
