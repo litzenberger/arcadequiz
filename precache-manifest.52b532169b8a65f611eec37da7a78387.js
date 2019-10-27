@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abd04c889d797bf4d96a1a18c88bf54a",
+    "revision": "3d854a49c4ef87f7863a3c7b4475f9f1",
     "url": "/arcadequiz/index.html"
   },
   {
