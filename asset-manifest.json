@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/arcadequiz/static/css/main.2cce8147.chunk.css",
-    "main.js": "/arcadequiz/static/js/main.bd5b4a60.chunk.js",
-    "main.js.map": "/arcadequiz/static/js/main.bd5b4a60.chunk.js.map",
+    "main.js": "/arcadequiz/static/js/main.123ca328.chunk.js",
+    "main.js.map": "/arcadequiz/static/js/main.123ca328.chunk.js.map",
     "runtime~main.js": "/arcadequiz/static/js/runtime~main.c5261426.js",
     "runtime~main.js.map": "/arcadequiz/static/js/runtime~main.c5261426.js.map",
     "static/css/2.15c5ad10.chunk.css": "/arcadequiz/static/css/2.15c5ad10.chunk.css",
     "static/js/2.e593ee9f.chunk.js": "/arcadequiz/static/js/2.e593ee9f.chunk.js",
     "static/js/2.e593ee9f.chunk.js.map": "/arcadequiz/static/js/2.e593ee9f.chunk.js.map",
     "index.html": "/arcadequiz/index.html",
-    "precache-manifest.c0dad8774b792d5533f10ffe49ce6061.js": "/arcadequiz/precache-manifest.c0dad8774b792d5533f10ffe49ce6061.js",
+    "precache-manifest.180300ebbc86db93a3526d10f5c8ce77.js": "/arcadequiz/precache-manifest.180300ebbc86db93a3526d10f5c8ce77.js",
     "service-worker.js": "/arcadequiz/service-worker.js",
     "static/css/2.15c5ad10.chunk.css.map": "/arcadequiz/static/css/2.15c5ad10.chunk.css.map",
     "static/css/main.2cce8147.chunk.css.map": "/arcadequiz/static/css/main.2cce8147.chunk.css.map"
