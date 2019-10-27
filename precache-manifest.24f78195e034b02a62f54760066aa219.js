@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec998d28a7f43a790fb244bbd7627785",
+    "revision": "7e40864735d8aaf16563393ed7b1a122",
     "url": "/arcadequiz/index.html"
   },
   {
-    "revision": "f9ffec89b4531d100b9a",
-    "url": "/arcadequiz/static/css/2.66512b1a.chunk.css"
+    "revision": "964260d80a1763c96429",
+    "url": "/arcadequiz/static/css/2.3907ed37.chunk.css"
   },
   {
     "revision": "10494aae6f7859804220",
     "url": "/arcadequiz/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "f9ffec89b4531d100b9a",
+    "revision": "964260d80a1763c96429",
     "url": "/arcadequiz/static/js/2.e593ee9f.chunk.js"
   },
   {
