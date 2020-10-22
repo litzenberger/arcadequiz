@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/arcadequiz/static/css/main.2cce8147.chunk.css",
-    "main.js": "/arcadequiz/static/js/main.123ca328.chunk.js",
-    "main.js.map": "/arcadequiz/static/js/main.123ca328.chunk.js.map",
-    "runtime~main.js": "/arcadequiz/static/js/runtime~main.c5261426.js",
-    "runtime~main.js.map": "/arcadequiz/static/js/runtime~main.c5261426.js.map",
-    "static/css/2.15c5ad10.chunk.css": "/arcadequiz/static/css/2.15c5ad10.chunk.css",
-    "static/js/2.e593ee9f.chunk.js": "/arcadequiz/static/js/2.e593ee9f.chunk.js",
-    "static/js/2.e593ee9f.chunk.js.map": "/arcadequiz/static/js/2.e593ee9f.chunk.js.map",
+    "main.css": "/arcadequiz/static/css/main.692d75bb.chunk.css",
+    "main.js": "/arcadequiz/static/js/main.2cf7c8a3.chunk.js",
+    "main.js.map": "/arcadequiz/static/js/main.2cf7c8a3.chunk.js.map",
+    "runtime-main.js": "/arcadequiz/static/js/runtime-main.881e888a.js",
+    "runtime-main.js.map": "/arcadequiz/static/js/runtime-main.881e888a.js.map",
+    "static/css/2.b5e8d3d2.chunk.css": "/arcadequiz/static/css/2.b5e8d3d2.chunk.css",
+    "static/js/2.35e55cc0.chunk.js": "/arcadequiz/static/js/2.35e55cc0.chunk.js",
+    "static/js/2.35e55cc0.chunk.js.map": "/arcadequiz/static/js/2.35e55cc0.chunk.js.map",
     "index.html": "/arcadequiz/index.html",
-    "precache-manifest.52b532169b8a65f611eec37da7a78387.js": "/arcadequiz/precache-manifest.52b532169b8a65f611eec37da7a78387.js",
+    "precache-manifest.dfcc52704956a5e39fc298543ec13607.js": "/arcadequiz/precache-manifest.dfcc52704956a5e39fc298543ec13607.js",
     "service-worker.js": "/arcadequiz/service-worker.js",
-    "static/css/2.15c5ad10.chunk.css.map": "/arcadequiz/static/css/2.15c5ad10.chunk.css.map",
-    "static/css/main.2cce8147.chunk.css.map": "/arcadequiz/static/css/main.2cce8147.chunk.css.map"
-  }
+    "static/css/2.b5e8d3d2.chunk.css.map": "/arcadequiz/static/css/2.b5e8d3d2.chunk.css.map",
+    "static/css/main.692d75bb.chunk.css.map": "/arcadequiz/static/css/main.692d75bb.chunk.css.map",
+    "static/js/2.35e55cc0.chunk.js.LICENSE.txt": "/arcadequiz/static/js/2.35e55cc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.881e888a.js",
+    "static/css/2.b5e8d3d2.chunk.css",
+    "static/js/2.35e55cc0.chunk.js",
+    "static/css/main.692d75bb.chunk.css",
+    "static/js/main.2cf7c8a3.chunk.js"
+  ]
 }
